@@ -1,4 +1,3 @@
-package EightQuestions;
 public class SimpleInterest {
     public static void main(String[] args) {
         double principal = 10000;  // Hardcoded Principal amount
